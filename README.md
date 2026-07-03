@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <picture>
@@ -383,4 +383,3 @@ Technical Interests
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,30:0E75B6,70:0F172A,100:020617&height=155&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,50:7DD3FC,100:E0F2FE&height=155&section=footer" width="100%" alt="Footer wave" />
 </picture>
-```
