@@ -54,6 +54,25 @@
 
 <br/>
 
+<table>
+  <tr>
+    <td align="center" bgcolor="#0F172A">
+      <strong><span style="color:#F8FAFC">Industrial logic</span></strong><br/>
+      <span style="color:#E2E8F0">Clear workflows, structured thinking, and systems that actually help people work.</span>
+    </td>
+    <td align="center" bgcolor="#0F766E">
+      <strong><span style="color:#F8FAFC">Frontend craft</span></strong><br/>
+      <span style="color:#ECFEFF">Layouts, hierarchy, motion, and interfaces that feel deliberate.</span>
+    </td>
+    <td align="center" bgcolor="#B45309">
+      <strong><span style="color:#FFF7ED">Optimization focus</span></strong><br/>
+      <span style="color:#FFF7ED">Scheduling, heuristics, dashboards, and decision support.</span>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## About Me
 
 I am **Khobizi Abderrahim**, an **Industrial Engineering graduate from Algeria** focused on **frontend development, scheduling optimization, ERP systems, and decision-support platforms**.
@@ -122,7 +141,6 @@ I build software where the interface is not decoration. It is part of the logic.
         <li>Displays schedules with Gantt charts and performance indicators</li>
         <li>Connects a modern Next.js frontend with a FastAPI backend</li>
       </ul>
-      
     </td>
   </tr>
 </table>
@@ -146,7 +164,6 @@ I build software where the interface is not decoration. It is part of the logic.
       <img src="https://img.shields.io/badge/React-0F766E?style=flat-square&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-1D4ED8?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=white" /><br/><br/>
-      
     </td>
     <td width="50%" valign="top" bgcolor="#FFFBEB">
       <strong>Facility Layout - SLP + Genetic Algorithm</strong><br/>
@@ -163,7 +180,6 @@ I build software where the interface is not decoration. It is part of the logic.
       <img src="https://img.shields.io/badge/Tkinter-F59E0B?style=flat-square" />
       <img src="https://img.shields.io/badge/Genetic%20Algorithm-0F766E?style=flat-square" />
       <img src="https://img.shields.io/badge/Industrial%20Engineering-0F172A?style=flat-square" /><br/><br/>
-      
     </td>
   </tr>
   <tr>
@@ -183,7 +199,6 @@ I build software where the interface is not decoration. It is part of the logic.
       <img src="https://img.shields.io/badge/Node.js-1D4ED8?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white" /><br/><br/>
-      
     </td>
     <td width="50%" valign="top" bgcolor="#F8FAFC">
       <strong>QR Restaurant Ordering System</strong><br/>
@@ -200,7 +215,6 @@ I build software where the interface is not decoration. It is part of the logic.
       <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Socket.io-111827?style=flat-square&logo=socket.io&logoColor=white" /><br/><br/>
-      
     </td>
   </tr>
   <tr>
@@ -220,7 +234,6 @@ I build software where the interface is not decoration. It is part of the logic.
       <img src="https://img.shields.io/badge/Chargily-F59E0B?style=flat-square" />
       <img src="https://img.shields.io/badge/Render-0F172A?style=flat-square&logo=render&logoColor=white" />
       <img src="https://img.shields.io/badge/Resend-111827?style=flat-square" /><br/><br/>
-      
     </td>
     <td width="50%" valign="top" bgcolor="#ECFEFF">
       <strong>Flexy Telecom Recharge Platform</strong><br/>
@@ -237,7 +250,6 @@ I build software where the interface is not decoration. It is part of the logic.
       <img src="https://img.shields.io/badge/API%20Integration-06B6D4?style=flat-square" />
       <img src="https://img.shields.io/badge/RBAC-0F172A?style=flat-square" />
       <img src="https://img.shields.io/badge/Dashboard-1D4ED8?style=flat-square" /><br/><br/>
-      
     </td>
   </tr>
   <tr>
@@ -256,7 +268,6 @@ I build software where the interface is not decoration. It is part of the logic.
       <img src="https://img.shields.io/badge/ERP-0F172A?style=flat-square" />
       <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square" />
       <img src="https://img.shields.io/badge/Business%20Processes-0F766E?style=flat-square" /><br/><br/>
-      
     </td>
   </tr>
 </table>
