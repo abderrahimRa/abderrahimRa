@@ -1,12 +1,11 @@
-
 <div align="center">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0F172A,50:0E75B6,80:38BDF8,100:7DD3FC&height=320&section=header&text=Khobizi%20Abderrahim&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Optimization%20Enthusiast%20%7C%20Industrial%20Engineering&descSize=18&descAlignY=54" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&section=header&text=Khobizi%20Abderrahim&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Optimization%20Enthusiast%20%7C%20Industrial%20Engineering&descSize=18&descAlignY=54" />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,25:BAE6FD,55:38BDF8,80:0EA5E9,100:0E75B6&height=320&section=header&text=Khobizi%20Abderrahim&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Optimization%20Enthusiast%20%7C%20Industrial%20Engineering&descSize=18&descAlignY=54"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ECFEFF,20:CFFAFE,45:7DD3FC,70:38BDF8,100:0EA5E9&height=320&section=header&text=Khobizi%20Abderrahim&fontSize=50&fontColor=0F172A&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Optimization%20Enthusiast%20%7C%20Industrial%20Engineering&descSize=18&descAlignY=54"
     width="100%"
     alt="Khobizi Abderrahim profile header" />
 </picture>
@@ -36,9 +35,36 @@
 
 </div>
 
+<table>
+  <tr>
+    <td align="center" width="33%" bgcolor="#dbeafe">
+      <strong>Frontend</strong><br/>
+      Interface design, responsive layouts, component systems, and motion-driven presentation.
+    </td>
+    <td align="center" width="33%" bgcolor="#cffafe">
+      <strong>Optimization</strong><br/>
+      Scheduling logic, heuristics, decision support, and solver-powered workflows.
+    </td>
+    <td align="center" width="34%" bgcolor="#ede9fe">
+      <strong>Industrial Software</strong><br/>
+      ERP, Odoo, process digitization, and practical tooling for real operations.
+    </td>
+  </tr>
+</table>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,50:38BDF8,100:0E75B6&height=3&section=header" width="100%" alt="Divider" />
+<table>
+  <tr>
+    <td align="center" bgcolor="#eff6ff"><strong>Current focus</strong><br/>Frontends that look sharp and explain complex systems clearly</td>
+    <td align="center" bgcolor="#ecfeff"><strong>Preferred stack</strong><br/>Next.js, React, TypeScript, FastAPI, Python</td>
+    <td align="center" bgcolor="#f5f3ff"><strong>Best fit</strong><br/>Scheduling tools, ERP support, industrial web apps</td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
 
 ## <img src="https://skillicons.dev/icons?i=github" width="28" height="28" alt="GitHub icon" /> About Me
 
@@ -82,7 +108,7 @@ I like turning industrial and optimization ideas into software that feels clear,
 - Scheduling and optimization projects
 - Web platforms for industrial use cases
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:0E75B6,100:38BDF8&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
 
 ## <img src="https://skillicons.dev/icons?i=nextjs" width="28" height="28" alt="Next.js icon" /> Featured Project - OptiGra
 
@@ -117,7 +143,7 @@ I like turning industrial and optimization ideas into software that feels clear,
   <li>Connects a modern Next.js frontend with a FastAPI backend</li>
 </ul>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,50:38BDF8,100:0E75B6&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
 
 ## <img src="https://skillicons.dev/icons?i=react" width="28" height="28" alt="React icon" /> Selected Projects
 
@@ -272,7 +298,7 @@ I like turning industrial and optimization ideas into software that feels clear,
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:0E75B6,100:38BDF8&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
 
 ## <img src="https://skillicons.dev/icons?i=vscode" width="28" height="28" alt="VS Code icon" /> Tech Stack
 
@@ -296,24 +322,28 @@ Technical Interests<br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,50:38BDF8,100:0E75B6&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
 
 ## <img src="https://skillicons.dev/icons?i=github" width="28" height="28" alt="GitHub icon" /> GitHub Statistics
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abderrahimRa&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub trophies" />
+
+<br/><br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=abderrahimRa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimRa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
 
-  <br/><br/>
+<br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahimRa&theme=tokyonight&hide_border=true" width="65%" alt="GitHub streak stats" />
 
-  <br/><br/>
+<br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abderrahimRa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub activity graph" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:0E75B6,100:38BDF8&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
 
 ## <img src="https://skillicons.dev/icons?i=github" width="28" height="28" alt="GitHub icon" /> Contribution Snake
 
@@ -324,7 +354,7 @@ Technical Interests<br/>
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,50:38BDF8,100:0E75B6&height=3&section=header" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
 
 ## <img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn icon" /> Connect With Me
 
@@ -347,6 +377,6 @@ Technical Interests<br/>
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,30:0E75B6,70:0F172A,100:020617&height=155&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,50:7DD3FC,100:E0F2FE&height=155&section=footer" width="100%" alt="Footer wave" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=175&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=175&section=footer" width="100%" alt="Footer wave" />
 </picture>
