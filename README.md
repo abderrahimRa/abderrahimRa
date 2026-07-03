@@ -3,74 +3,62 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=320&section=header&text=Khobizi%20Abderrahim&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Optimization%20Enthusiast%20%7C%20Industrial%20Engineering&descSize=18&descAlignY=54" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=340&section=header&text=Khobizi%20Abderrahim&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Optimization%20Enthusiast%20%7C%20Industrial%20Engineering&descSize=18&descAlignY=54&color=0:0F172A,25:111827,55:0F766E,80:06B6D4,100:F59E0B" />
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ECFEFF,20:CFFAFE,45:7DD3FC,70:38BDF8,100:0EA5E9&height=320&section=header&text=Khobizi%20Abderrahim&fontSize=50&fontColor=0F172A&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Optimization%20Enthusiast%20%7C%20Industrial%20Engineering&descSize=18&descAlignY=54"
+    src="https://capsule-render.vercel.app/api?type=waving&height=340&section=header&text=Khobizi%20Abderrahim&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Optimization%20Enthusiast%20%7C%20Industrial%20Engineering&descSize=18&descAlignY=54&color=0:0F172A,25:111827,55:0F766E,80:06B6D4,100:F59E0B"
     width="100%"
-    alt="Khobizi Abderrahim profile header" />
+    alt="Khobizi Abderrahim hero banner" />
 </picture>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/khobizi-abderrahim/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:abderrahim.khobizi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/abderrahimRa">
-  <img src="https://img.shields.io/badge/GitHub-abderrahimRa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=0E75B6&center=true&vCenter=true&width=960&height=65&lines=Industrial+Engineering+meets+modern+frontend+craft;Building+decision-support+systems+for+scheduling+optimization;Turning+operations+research+ideas+into+usable+software;React+%2B+TypeScript+%2B+Next.js+%2B+FastAPI+%2B+Python"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=0F766E&center=true&vCenter=true&width=980&height=65&lines=Industrial+engineering+thinking,+shipped+through+modern+frontend+systems;Building+decision-support+tools+for+scheduling,+ERP,+and+operations;Designing+interfaces+that+make+complex+workflows+feel+simple;React+%2B+TypeScript+%2B+Next.js+%2B+FastAPI+%2B+Python"
   alt="Typing intro" />
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=abderrahimRa&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/abderrahimRa?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=abderrahimRa&label=Profile%20Views&color=0F766E&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/abderrahimRa?label=Followers&style=for-the-badge&color=0F172A&logo=github" alt="GitHub followers" />
 
 </div>
 
 <table>
   <tr>
-    <td align="center" width="33%" bgcolor="#dbeafe">
+    <td align="center" width="33%" bgcolor="#ECFEFF">
       <strong>Frontend</strong><br/>
-      Interface design, responsive layouts, component systems, and motion-driven presentation.
+      Interface systems, responsive layouts, visual hierarchy, and practical motion.
     </td>
-    <td align="center" width="33%" bgcolor="#cffafe">
+    <td align="center" width="33%" bgcolor="#F0FDFA">
       <strong>Optimization</strong><br/>
-      Scheduling logic, heuristics, decision support, and solver-powered workflows.
+      Scheduling logic, solver workflows, and decision-support tooling.
     </td>
-    <td align="center" width="34%" bgcolor="#ede9fe">
+    <td align="center" width="34%" bgcolor="#FFF7ED">
       <strong>Industrial Software</strong><br/>
-      ERP, Odoo, process digitization, and practical tooling for real operations.
+      ERP, Odoo, process digitization, and operational web applications.
     </td>
   </tr>
 </table>
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" bgcolor="#eff6ff"><strong>Current focus</strong><br/>Frontends that look sharp and explain complex systems clearly</td>
-    <td align="center" bgcolor="#ecfeff"><strong>Preferred stack</strong><br/>Next.js, React, TypeScript, FastAPI, Python</td>
-    <td align="center" bgcolor="#f5f3ff"><strong>Best fit</strong><br/>Scheduling tools, ERP support, industrial web apps</td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
-
-## <img src="https://skillicons.dev/icons?i=github" width="28" height="28" alt="GitHub icon" /> About Me
+## About Me
 
 I am **Khobizi Abderrahim**, an **Industrial Engineering graduate from Algeria** focused on **frontend development, scheduling optimization, ERP systems, and decision-support platforms**.
 
-I like turning industrial and optimization ideas into software that feels clear, fast, and practical. My portfolio mixes interface work with business logic, so the frontend does not just look good - it also makes complex workflows easier to use.
+I build software where the interface is not decoration. It is part of the logic. My strongest work sits at the point where industrial thinking, optimization, and frontend execution meet.
 
 <table>
   <tr>
@@ -87,90 +75,65 @@ I like turning industrial and optimization ideas into software that feels clear,
   </tr>
 </table>
 
-### Main Focus
+### What I Focus On
 
-<img src="https://img.shields.io/badge/Frontend%20development-0E75B6?style=for-the-badge" alt="Frontend development" />
-<img src="https://img.shields.io/badge/Scheduling%20optimization-38BDF8?style=for-the-badge" alt="Scheduling optimization" />
+<img src="https://img.shields.io/badge/Frontend%20development-0F766E?style=for-the-badge" alt="Frontend development" />
+<img src="https://img.shields.io/badge/Scheduling%20optimization-06B6D4?style=for-the-badge" alt="Scheduling optimization" />
 <img src="https://img.shields.io/badge/Decision%20support%20systems-0F172A?style=for-the-badge" alt="Decision support systems" />
-<img src="https://img.shields.io/badge/ERP%20and%20Odoo%20integration-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="ERP and Odoo integration" />
-<img src="https://img.shields.io/badge/Industrial%20process%20digitalization-111827?style=for-the-badge" alt="Industrial process digitalization" />
+<img src="https://img.shields.io/badge/ERP%20and%20Odoo%20integration-92400E?style=for-the-badge&logo=odoo&logoColor=white" alt="ERP and Odoo integration" />
+<img src="https://img.shields.io/badge/Industrial%20process%20digitalization-1D4ED8?style=for-the-badge" alt="Industrial process digitalization" />
 
-### Currently Building
+### What I Am Building
 
 - OptiGra - a web-based scheduling optimization platform
-- FraudGuard - a fraud-prevention and trust-support concept
+- FraudGuard - a fraud-prevention and trust-support platform concept
 - Optimization dashboards and industrial web tools
 
-### Open To
+### What I Am Open To
 
 - Frontend developer roles
 - Junior ERP / Odoo support roles
 - Scheduling and optimization projects
 - Web platforms for industrial use cases
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
-
-## <img src="https://skillicons.dev/icons?i=nextjs" width="28" height="28" alt="Next.js icon" /> Featured Project - OptiGra
-
-<div align="center">
-
-<strong>OptiGra - Web-Based Scheduling Optimization Platform</strong>
-
-<p>My master's thesis project: a decision-support platform for production scheduling that turns Graham's alpha | beta | gamma notation into an interactive workflow.</p>
-
-<img src="https://img.shields.io/badge/Domain-Production%20Scheduling-0E75B6?style=for-the-badge" alt="Production Scheduling" />
-<img src="https://img.shields.io/badge/Focus-Optimization-38BDF8?style=for-the-badge" alt="Optimization" />
-<img src="https://img.shields.io/badge/Type-Decision%20Support%20System-0F172A?style=for-the-badge" alt="Decision support" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-</div>
-
-<ul>
-  <li>Converts scheduling theory into a guided web workflow</li>
-  <li>Supports multiple scheduling problem classes</li>
-  <li>Uses Graham's alpha | beta | gamma notation for problem definition</li>
-  <li>Provides rules, heuristics, and metaheuristic solving logic</li>
-  <li>Includes a Simulated Annealing solver for complex scheduling problems</li>
-  <li>Displays schedules with Gantt charts and performance indicators</li>
-  <li>Connects a modern Next.js frontend with a FastAPI backend</li>
-</ul>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
-
-## <img src="https://skillicons.dev/icons?i=react" width="28" height="28" alt="React icon" /> Selected Projects
+## Featured Project
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>OptiGra - Scheduling Optimization Platform</strong><br/>
-      Web app for turning production scheduling notation into a practical decision-support workflow.<br/><br/>
-      <strong>Highlights</strong>
+    <td bgcolor="#F8FAFC">
+      <strong>OptiGra - Web-Based Scheduling Optimization Platform</strong><br/>
+      My master's thesis project: a decision-support platform for production scheduling that turns Graham's alpha | beta | gamma notation into an interactive workflow.<br/><br/>
+      <img src="https://img.shields.io/badge/Domain-Production%20Scheduling-0F766E?style=for-the-badge" alt="Production Scheduling" />
+      <img src="https://img.shields.io/badge/Focus-Optimization-06B6D4?style=for-the-badge" alt="Optimization" />
+      <img src="https://img.shields.io/badge/Type-Decision%20Support%20System-0F172A?style=for-the-badge" alt="Decision support" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React-0F766E?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-1D4ED8?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=111827" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <ul>
-        <li>Graham alpha | beta | gamma problem formulation</li>
-        <li>Scheduling problem selection workflow</li>
-        <li>Gantt chart visualization and KPI analysis</li>
-        <li>FastAPI optimization backend with Firebase auth</li>
+        <li>Converts scheduling theory into a guided web workflow</li>
+        <li>Supports multiple scheduling problem classes</li>
+        <li>Uses Graham's alpha | beta | gamma notation for problem definition</li>
+        <li>Provides rules, heuristics, and metaheuristic solving logic</li>
+        <li>Includes a Simulated Annealing solver for complex scheduling problems</li>
+        <li>Displays schedules with Gantt charts and performance indicators</li>
+        <li>Connects a modern Next.js frontend with a FastAPI backend</li>
       </ul>
-      <strong>Stack</strong><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/><br/>
       <a href="https://github.com/abderrahimRa/optigra">Repository</a>
     </td>
-    <td width="50%" valign="top">
-      <strong>FraudGuard - Fraud-Prevention Platform Concept</strong><br/>
-      A concept for fraud detection, trust support workflows, and safer online interactions.<br/><br/>
+  </tr>
+</table>
+
+## Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#F8FAFC">
+      <strong>FraudGuard</strong><br/>
+      Fraud-prevention and trust-support platform concept.<br/><br/>
       <strong>Highlights</strong>
       <ul>
         <li>User and profile management</li>
@@ -179,17 +142,15 @@ I like turning industrial and optimization ideas into software that feels clear,
         <li>Authentication-based application flow</li>
       </ul>
       <strong>Stack</strong><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-0F766E?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-1D4ED8?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=white" /><br/><br/>
       <a href="https://github.com/abderrahimRa/fraudguard">Repository</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#FFFBEB">
       <strong>Facility Layout - SLP + Genetic Algorithm</strong><br/>
-      Desktop optimization tool for multi-level facility layout design using SLP and a genetic algorithm.<br/><br/>
+      Desktop optimization tool for multi-level facility layout design.<br/><br/>
       <strong>Highlights</strong>
       <ul>
         <li>Department surface configuration</li>
@@ -198,15 +159,17 @@ I like turning industrial and optimization ideas into software that feels clear,
         <li>Cost-based layout evaluation</li>
       </ul>
       <strong>Stack</strong><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tkinter-FFB000?style=flat-square" />
-      <img src="https://img.shields.io/badge/Genetic%20Algorithm-0E75B6?style=flat-square" />
+      <img src="https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tkinter-F59E0B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Genetic%20Algorithm-0F766E?style=flat-square" />
       <img src="https://img.shields.io/badge/Industrial%20Engineering-0F172A?style=flat-square" /><br/><br/>
       <a href="https://github.com/abderrahimRa/facility-layout-ga">Repository</a>
     </td>
-    <td width="50%" valign="top">
-      <strong>HeartHub - IoT Health Monitoring Prototype</strong><br/>
-      Wearable-style monitoring prototype with real-time sensing and alerting.<br/><br/>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#F0FDFA">
+      <strong>HeartHub</strong><br/>
+      IoT health monitoring prototype with wearable-style sensing.<br/><br/>
       <strong>Highlights</strong>
       <ul>
         <li>ESP32-based health monitoring logic</li>
@@ -215,16 +178,14 @@ I like turning industrial and optimization ideas into software that feels clear,
         <li>Telegram alert notifications</li>
       </ul>
       <strong>Stack</strong><br/>
-      <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/ESP32-111827?style=flat-square&logo=espressif&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino-0F766E?style=flat-square&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-1D4ED8?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white" /><br/><br/>
       <a href="https://github.com/abderrahimRa/hearthub-iot">Repository</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#F8FAFC">
       <strong>QR Restaurant Ordering System</strong><br/>
       QR-driven restaurant ordering flow with real-time kitchen updates.<br/><br/>
       <strong>Highlights</strong>
@@ -235,15 +196,17 @@ I like turning industrial and optimization ideas into software that feels clear,
         <li>Socket.IO updates and MVC backend structure</li>
       </ul>
       <strong>Stack</strong><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/React-0F766E?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Socket.io-111827?style=flat-square&logo=socket.io&logoColor=white" /><br/><br/>
       <a href="https://github.com/abderrahimRa/qr-restaurant">Repository</a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#FFF7ED">
       <strong>Systeme.io + Chargily Payment Automation</strong><br/>
-      Automated digital-product delivery flow connected to payments, webhooks, and email delivery.<br/><br/>
+      Automated digital-product delivery flow connecting payments, webhooks, and email delivery.<br/><br/>
       <strong>Highlights</strong>
       <ul>
         <li>Chargily payment integration</li>
@@ -252,16 +215,14 @@ I like turning industrial and optimization ideas into software that feels clear,
         <li>Render-hosted backend logic</li>
       </ul>
       <strong>Stack</strong><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Webhooks-0E75B6?style=flat-square" />
-      <img src="https://img.shields.io/badge/Chargily-111827?style=flat-square" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
-      <img src="https://img.shields.io/badge/Resend-000000?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-1D4ED8?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Webhooks-0F766E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Chargily-F59E0B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Render-0F172A?style=flat-square&logo=render&logoColor=white" />
+      <img src="https://img.shields.io/badge/Resend-111827?style=flat-square" /><br/><br/>
       <a href="https://github.com/abderrahimRa/systeme-chargily">Repository</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#ECFEFF">
       <strong>Flexy Telecom Recharge Platform</strong><br/>
       Concept for Algerian mobile recharge workflows with role-based access and dashboard structure.<br/><br/>
       <strong>Highlights</strong>
@@ -272,13 +233,15 @@ I like turning industrial and optimization ideas into software that feels clear,
         <li>Queue-based processing concept</li>
       </ul>
       <strong>Stack</strong><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/API%20Integration-0E75B6?style=flat-square" />
+      <img src="https://img.shields.io/badge/React-0F766E?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/API%20Integration-06B6D4?style=flat-square" />
       <img src="https://img.shields.io/badge/RBAC-0F172A?style=flat-square" />
-      <img src="https://img.shields.io/badge/Dashboard-38BDF8?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/Dashboard-1D4ED8?style=flat-square" /><br/><br/>
       <a href="https://github.com/abderrahimRa/flexy-telecom">Repository</a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#F8FAFC">
       <strong>ERP / Odoo Learning & Integration Direction</strong><br/>
       Academic and technical work focused on process digitalization, information systems, and Odoo understanding.<br/><br/>
       <strong>Focus Areas</strong>
@@ -289,42 +252,38 @@ I like turning industrial and optimization ideas into software that feels clear,
         <li>SQL, documentation, testing, and integration thinking</li>
       </ul>
       <strong>Stack</strong><br/>
-      <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
-      <img src="https://img.shields.io/badge/ERP-0E75B6?style=flat-square" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" />
-      <img src="https://img.shields.io/badge/Business%20Processes-0F172A?style=flat-square" /><br/><br/>
+      <img src="https://img.shields.io/badge/Odoo-92400E?style=flat-square&logo=odoo&logoColor=white" />
+      <img src="https://img.shields.io/badge/ERP-0F172A?style=flat-square" />
+      <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square" />
+      <img src="https://img.shields.io/badge/Business%20Processes-0F766E?style=flat-square" /><br/><br/>
       <a href="https://github.com/abderrahimRa/odoo-academic">Repository</a>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
-
-## <img src="https://skillicons.dev/icons?i=vscode" width="28" height="28" alt="VS Code icon" /> Tech Stack
+## Tech Stack
 
 <div align="center">
 
-Frontend Development<br/>
+Frontend<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" alt="Frontend skills" />
 
-Backend, APIs and Databases<br/>
+Backend and Databases<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mysql,mongodb,firebase,supabase" alt="Backend skills" />
 
 Tools and Platforms<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,azure,bash,arduino,figma" alt="Tools and platforms" />
 
-Technical Interests<br/>
-<img src="https://img.shields.io/badge/Scheduling%20Optimization-0E75B6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Operations%20Research-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Decision%20Support%20Systems-38BDF8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ERP%20Integration-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-<img src="https://img.shields.io/badge/Odoo%20Support-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+Core Interests<br/>
+<img src="https://img.shields.io/badge/Scheduling%20Optimization-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Operations%20Research-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Decision%20Support%20Systems-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ERP%20Integration-92400E?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/Odoo%20Support-92400E?style=for-the-badge&logo=odoo&logoColor=white" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
-
-## <img src="https://skillicons.dev/icons?i=github" width="28" height="28" alt="GitHub icon" /> GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abderrahimRa&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub trophies" />
@@ -340,12 +299,10 @@ Technical Interests<br/>
 
 <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abderrahimRa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abderrahimRa&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub activity graph" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
-
-## <img src="https://skillicons.dev/icons?i=github" width="28" height="28" alt="GitHub icon" /> Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -354,19 +311,17 @@ Technical Interests<br/>
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=4&section=header" width="100%" alt="Divider" />
-
-## <img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn icon" /> Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/khobizi-abderrahim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Khobizi%20Abderrahim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Khobizi%20Abderrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abderrahim.khobizi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-abderrahim.khobizi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-abderrahim.khobizi-F59E0B?style=for-the-badge&logo=gmail&logoColor=111827" alt="Gmail" />
   </a>
   <a href="https://github.com/abderrahimRa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-abderrahimRa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-abderrahimRa-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -377,6 +332,6 @@ Technical Interests<br/>
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=175&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,25:06B6D4,50:38BDF8,75:6366F1,100:A855F7&height=175&section=footer" width="100%" alt="Footer wave" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=175&section=footer&color=0:0F172A,25:111827,55:0F766E,80:06B6D4,100:F59E0B" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=175&section=footer&color=0:0F172A,25:111827,55:0F766E,80:06B6D4,100:F59E0B" width="100%" alt="Footer wave" />
 </picture>
