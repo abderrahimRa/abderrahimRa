@@ -291,15 +291,18 @@ Core Interests<br/>
 
 </div>
 
-## GitHub Statistics
+## GitHub Profile
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abderrahimRa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimRa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
 
-<br/><br/>
+**Public Repositories:** 21  
+**Followers:** 2  
+**Following:** 5
 
-  <img src="https://github-readme-contribution-stats.vercel.app/api?username=abderrahimRa" width="100%" alt="Contribution stats" />
+<img src="https://img.shields.io/badge/Contributions-Public%20Repo-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Profile%20Status-Active-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Primary%20Languages-JavaScript%2C%20Python%2C%20TypeScript-0F172A?style=for-the-badge" />
+
 </div>
 
 ## Contribution Snake
